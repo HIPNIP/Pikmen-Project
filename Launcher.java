@@ -28,6 +28,6 @@ public class Launcher
         configuration.setWindowedMode(800, 500);
         //// You can change these files; they are in the root of assets/ .
         configuration.setWindowIcon("assets/libgdx128.png", "assets/libgdx64.png", "assets/libgdx32.png", "assets/libgdx16.png");
-        return configuration;;;;;;;
+        return configuration;
     }
 }
