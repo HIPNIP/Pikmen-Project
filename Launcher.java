@@ -8,7 +8,7 @@ public class Launcher
         // To start a LibGDX program, this method:
         // (1) creates an instance of the game
         // (2) creates a new application with game instance and window settings as argument
-        Pikmin myGame = new Pikmin();
+        Pikmen myGame = new Pikmen();
         Lwjgl3Application launcher = new Lwjgl3Application( myGame, getDefaultConfiguration());
     }
 
